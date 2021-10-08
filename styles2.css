@@ -19,7 +19,7 @@ body {
   border-radius: 5px;
   margin: 2%;
   grid-template-columns: repeat(2, 1fr);
-  overflow: hidden;
+  overflow:hidden;
 }
 
 .image img {
