@@ -1,11 +1,11 @@
-<style type={"text/css"} />
+style type={"text/css"
 * {
   margin: 0px;
   padding: 0px;
 }
 body {
   font-family: arial;
-  background-image:linear-gradient(rgb(53, 136, 245),yellow)
+  background-image:linear-gradient(rgb(8, 8, 8),rgb(28, 189, 42),)
 }
 .main {
   margin: 2%;
@@ -64,4 +64,3 @@ button{
   border-color: royalblue;
   border-radius: 25%;
 }
-</style>
